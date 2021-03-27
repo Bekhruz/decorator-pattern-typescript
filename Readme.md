@@ -1,6 +1,6 @@
 ## This is Decorator design pattern example
 
-###the example project consists of in three parts
+### the example project consists of in three parts
 - Decorator abstract class(AddonDecorator)
 - Concrete Class(Expresso)
 - Concrete Decorator
